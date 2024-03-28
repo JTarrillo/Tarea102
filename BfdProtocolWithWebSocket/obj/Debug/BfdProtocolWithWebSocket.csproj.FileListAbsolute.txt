@@ -1,0 +1,8 @@
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\bin\Debug\BfdProtocolWithWebSocket.exe.config
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\bin\Debug\BfdProtocolWithWebSocket.exe
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\bin\Debug\BfdProtocolWithWebSocket.pdb
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\obj\Debug\BfdProtocolWithWebSocket.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\obj\Debug\BfdProtocolWithWebSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\obj\Debug\BfdProtocolWithWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\obj\Debug\BfdProtocolWithWebSocket.exe
+C:\Users\Jose\Downloads\BfdProtocolWithWebSocket\obj\Debug\BfdProtocolWithWebSocket.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jose\Downloads\TCPClients\bin\Debug\TCPClients.exe.config
+C:\Users\Jose\Downloads\TCPClients\bin\Debug\TCPClients.exe
+C:\Users\Jose\Downloads\TCPClients\bin\Debug\TCPClients.pdb
+C:\Users\Jose\Downloads\TCPClients\obj\Debug\TCPClients.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\TCPClients\obj\Debug\TCPClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Downloads\TCPClients\obj\Debug\TCPClients.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\TCPClients\obj\Debug\TCPClients.exe
+C:\Users\Jose\Downloads\TCPClients\obj\Debug\TCPClients.pdb
